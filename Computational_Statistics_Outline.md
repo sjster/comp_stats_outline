@@ -6,7 +6,7 @@
 
 The objective of this specialization is to introduce Statistical Computing or Computational Statistics to aspiring or new data scientists. The attendees will learn the basics of probability and bayesian inference. This will be followed by a series of lectures on how to perform inference approximately when exact calculations are not not viable. Finally, PyMC3 will be introduced along with its application to some real world scenarios.
 
-Give some examples of MCMC inference so folks get a sense of what can be done including examples from Fintech. Why are we learning MCMC or Bayesian inference
+> Give some examples of MCMC inference so folks get a sense of what can be done including examples from Fintech. Why are we learning MCMC or Bayesian inference?
 
 
 
@@ -85,7 +85,7 @@ For an overview of lessons and modules visit https://partner.coursera.help/hc/en
 
    1. Introduction to PyMC3 for MCMC and ArViz for visualization (3hrs)
    2. Gaussian distribution fit to NMR example, example with Student’s-t distribution and posterior predictive checks (2hrs)
-   3. Linear regression with MCMC using PyMC3, Hierachical Linear Regression (2.5hrs)
+   3. Linear regression with MCMC using PyMC3, Hierarchical Linear Regression (2.5hrs)
    4. Case Study with PyMC3 (1hr) - Finance application possibly
 
 
