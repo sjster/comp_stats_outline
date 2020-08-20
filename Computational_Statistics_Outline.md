@@ -92,9 +92,9 @@ For an overview of lessons and modules visit https://partner.coursera.help/hc/en
 
 ### Coursera notes
 
-![Screen Shot 2020-08-20 at 5.48.28 AM](/Users/srijith.rajamohan/Desktop/Screen Shot 2020-08-20 at 5.48.40 AM.png)
+![Screen Shot 2020-08-20 at 5.48.28 AM](Coursera1.png)
 
-![Screen Shot 2020-08-20 at 5.48.28 AM](/Users/srijith.rajamohan/Desktop/Screen Shot 2020-08-20 at 5.48.28 AM.png)
+![Screen Shot 2020-08-20 at 5.48.28 AM](Coursera2.png)
 
-![Screen Shot 2020-08-20 at 5.49.15 AM](/Users/srijith.rajamohan/Desktop/Screen Shot 2020-08-20 at 5.49.15 AM.png)
+![Screen Shot 2020-08-20 at 5.49.15 AM](Coursera3.png)
 
